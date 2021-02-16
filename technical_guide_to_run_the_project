@@ -1,0 +1,27 @@
+a small technical guide to run the project :
+
+phone configuration :
+enable developer mode by going to :
+Android :
+https://www.youtube.com/watch?v=VcbDvsveqEs
+after enabling developer option go to the menu and scroll until you find USB DEBUGGING and enable it 
+it will ask for permission for the computer .
+
+
+Unity :
+go to :
+File --> build settings --> add the scenes --> choose android platfrom --> click switch platform .
+got to player setting in the lower left corner of the build settings 
+choose the android icon
+under the window " OTHER SETTINGS " do as follow :
+remove the vulkan graphic .
+uncheck the multithreaded Rendering .
+change Package name .
+change Minimum API Level to (API level 26).
+
+
+now you are set 
+go back to the build settings and press build and run 
+choose where to put the build and wait for the app to run on the phone .
+
+Thank you .
