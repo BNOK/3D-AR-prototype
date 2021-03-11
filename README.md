@@ -1,12 +1,12 @@
 # 3d-ar-find-hide
 
- # * Introduction #
+ # Introduction #
  
 This is my first approach to virtual reality on Unity , i Used *AR Foundation* to create the application and build it. it was built for *Android* devices since i have one and i need to test how things work.
 
 the Game is About placing and finding objects between two players during lockdown , using simple logic like rays , objects arrays , collision , simple animations.
 
-## * User Interface ##
+## User Interface ##
 * I used some simple Ui :
   * Uploaded existing free templates of buttons to use them
   * text fonts from fonts 1001
